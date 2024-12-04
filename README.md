@@ -1,5 +1,5 @@
-#1.Project's Title 
-Machine Learning Practical Implementation
+1.Project's Title 
+/nMachine Learning Practical Implementation
 This repository is designed to provide hands-on experience with machine learning algorithms. It includes examples of supervised, unsupervised, and reinforcement learning techniques. Each example is accompanied by detailed documentation and code to help you understand how the algorithms work and how they can be applied to real-world problems.
 
 2.Project's Features 
